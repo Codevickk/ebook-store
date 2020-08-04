@@ -1,0 +1,12 @@
+{
+	"user": {
+		"username": "admin",
+		"password": "password",
+        "passwordConfirm": "password",
+        "role": "admin"
+	},
+	"category": {
+		"name": "Uncategorised",
+		"description": "For books that have no category"
+	}
+}
